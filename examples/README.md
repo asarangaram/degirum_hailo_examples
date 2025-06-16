@@ -37,6 +37,10 @@ Each notebook focuses on a specific AI application:
 | **012_blur_objects.ipynb** | Blur detected objects in images. |
 | **013_overlay_effects.ipynb** | Overlay formatting on images. |
 | **015_light_enhancement_with_custom_postprocessor.ipynb** | Low light enhancement on images. |
+| **016_custom_video_source.ipynb** | Custom video generator. |
+| **017_advanced_tiling_strategies.ipynb** | Tiling strategies on images.  |
+
+
 
 ---
 
