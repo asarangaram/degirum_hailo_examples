@@ -40,6 +40,7 @@ Each notebook focuses on a specific AI application:
 | **016_custom_video_source.ipynb** | Custom video generator. |
 | **017_advanced_tiling_strategies.ipynb** | Tiling strategies on images. |
 | **018_eager_batching.ipynb** | Impact of batching on single & multi-context models. |
+| **019_warmup_inference.ipynb** | Running warm-up inference to reduce initial latency. |
 
 
 
