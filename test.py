@@ -53,10 +53,10 @@ if __name__ == "__main__":
 
         inference_host_address = "@local"
         zoo_url = "degirum/hailo"
-        token = ""
+        token = "dg_8PNGrkCskAPQooMPxoBRT8qBPSzac2cKoF2Qo"
 
         # Set model name and image source
-        model_name = "yolov8n_relu6_coco--640x640_quant_hailort_hailo8l_1"
+        model_name = "yolov8n_coco--640x640_quant_hailort_multidevice_1"
         image_source = "assets/ThreePersons.jpg"
 
         # Load AI model
