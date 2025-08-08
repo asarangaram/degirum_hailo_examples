@@ -42,6 +42,8 @@ Each notebook focuses on a specific AI application:
 | **018_eager_batching.ipynb** | Impact of batching on single & multi-context models. |
 | **019_warmup_inference.ipynb** | Running warm-up inference to reduce initial latency. |
 | **022_monocular_depth_estimation.ipynb** | Monocular depth estimation for relative depth estimation |
+| **023_multi_object_tracking_video_file.ipynb** | Multiple object tracking on a video |
+| **022_object_in_zone_counting_video_stream.ipynb** | Counting objects in a predefined zone |
 
 
 
